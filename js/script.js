@@ -16,8 +16,6 @@ function calculatePermeterAndAreaOfRectangle () {
   // process
   const areaOfTriangle = (baseoftriangle * heightOfTriangle)/2
   
-
   // output
-  document.getElementById('area').innerHTML = 'Area is: ' + areaOfTriangle + ' cm²'
-  
+  document.getElementById('area').innerHTML = 'Area is: ' + areaOfTriangle + ' cm²'  
 }
